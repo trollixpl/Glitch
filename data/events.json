@@ -1,0 +1,1 @@
+[null,{"name":"FullLogMessageDelete","temp":"DeleteMsg","event-type":"18","actions":[{"channel":"5","varName":"Msg","message":"${tempVars(\"DeleteMsg\")}","storage":"0","varName2":"","name":"Send Message"}]}]
